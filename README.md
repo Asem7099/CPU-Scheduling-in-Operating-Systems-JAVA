@@ -8,4 +8,6 @@ SJF-> Shortest Job First
 
 Priority-> Priority Scheduling
 
+LFJ-> Longest Job First
+
 RR-> Round robin
